@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Java EE 5">
+    <CLASSES>
+      <root url="jar://C:/glassfish5/glassfish/lib/javaee.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
